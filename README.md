@@ -10,6 +10,6 @@ my_map <- leaflet () %>%
 
 Plot1
 
-![Rplot1](Data_products_Week_2_Assignment.html) 
+![Rplot1](Week2/index.html) 
 
     
