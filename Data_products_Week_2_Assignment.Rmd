@@ -27,5 +27,5 @@ my_map <- leaflet () %>%
 
 my_map
 
-<iframe src='/Users/user/Desktop/mymap.html'></iframe>
+<iframe src='Data_products_Week_2_Assignment.html'></iframe>
 
